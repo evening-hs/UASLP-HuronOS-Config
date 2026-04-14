@@ -9,16 +9,18 @@ ContestConfig=true
 [Always]
 AllowedWebsites=all
 AllowUsbStorage=true
-AvailableSoftware=internet/chromium|internet/firefox|langs/g++|langs/gcc|langs/javac|langs/kotlinc|langs/pypy3|langs/python3|tools/konsole|programming/atom|programming/codeblocks|programming/eclipse|programming/emacs|programming/geany|programming/gedit|programming/gvim|programming/intellij|programming/kate|programming/kdevelop|programming/pycharm|programming/sublime|programming/vim|programming/vscode
-Bookmarks={Contest^https://boca.icpcmexico.org}|{BOCA_User_Manual^https://directives.huronos.org/icpcmx/boca_manual_teams.en.html}|
+AvailableSoftware=internet/chromium|internet/firefox|langs/g++|langs/gcc|langs/javac|langs/kotlinc|langs/pypy3|langs/python3|tools/konsole|programming/codeblocks|programming/eclipse|programming/emacs|programming/geany|programming/gedit|programming/gvim|programming/intellij|programming/kate|programming/kdevelop|programming/pycharm|programming/vim|programming/vscode
+Bookmarks={Contest^https://boca.icpcmexico.org}|{BOCA_User_Manual^https://directives.huronos.org/icpcmx/boca_manual_teams.en.html}|{C++_Reference^https://en.cppreference.com}|{Python_docs^https://docs.python.org/3/}|{Kotlin_docs^https://kotlinlang.org/docs/home.html}|{Java_docs^https://docs.oracle.com/javase/8/docs/api/}|
 
 [Event]
 
 [Contest]
-AllowedWebsites=boca.icpcmexico.org|score.icpcmexico.org|icpcmexico.org|codeforces.com|omegaup.com|open.kattis.com
+AllowedWebsites=boca.icpcmexico.org|score.icpcmexico.org|icpcmexico.org|codeforces.com|en.cppreference.com|docs.python.org|kotlinlang.org|docs.oracle.com|github.com|
 AllowUsbStorage=false
 
 [Event-Times]
 
 [Contest-Times]
 2026-02-25T10:00:00 2026-02-25T13:00:00
+2026-04-15T10:10:00 2026-04-15T12:00:00
+2026-04-18T11:00:00 2026-04-18T16:00:00
