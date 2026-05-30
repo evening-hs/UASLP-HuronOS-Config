@@ -1,6 +1,6 @@
 [Global]
 TimeZone=America/Mexico_City
-ConfigExpirationTime=2026-05-29T12:00:00
+ConfigExpirationTime=2026-05-30T12:00:00
 AvailableKeyboardLayouts=latam|us|
 DefaultKeyboardLayout=latam
 EventConfig=false
