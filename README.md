@@ -97,3 +97,21 @@ chmod +x launch.sh
 > - Hay que tener instalado Python.
 > - Hay que abrir el puerto 80.
 
+### Clonar USB
+
+Una vez que la USB con HuronOS funciona correctamente, es posible clonarla a otras USBs, para esto, la USB de destino debe ser del mismo tamaño o más grande que la original.
+
+1. Conecta ambas USB.
+2. Identifica la USB de origen y destino:
+
+```bash
+sudo fdisk -l
+```
+
+3. Clona las USB
+
+```bash
+sudo dd if=/dev/sdX of=/dev/sdY bs=8M && sync
+```
+
+Donde `/dev/sdX` es la USB original y `/dev/sdY` es la USB de destino.
