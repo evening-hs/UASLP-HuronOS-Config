@@ -35,7 +35,7 @@ sudo systemctl mask udisks2
 Montar el ISO
 
 ```bash
-mkdir 'p '/media/iso
+mkdir -p /media/iso
 # no olvides moverte con cd al directorio donde se encuentra el ISO
 mount ./huronOS-b2023.b0023-amd64.iso /media/iso
 ```
