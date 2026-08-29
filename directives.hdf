@@ -17,7 +17,7 @@ Bookmarks={Contest^https://icpc-latam-br-fp-2026.moj.naquadah.com.br/}|{C++_Refe
 [Contest]
 AllowedWebsites=moj.naquadah.com.br|boca.icpcmexico.org|score.icpcmexico.org|icpcmexico.org|codeforces.com|en.cppreference.com|docs.python.org|kotlinlang.org|docs.oracle.com|github.com|
 AllowUsbStorage=false
-AvailableSoftware=internet/chromium|internet/firefox|langs/g++|langs/gcc|langs/javac|langs/kotlinc|langs/pypy3|langs/python3|tools/konsole|programming/codeblocks|programming/eclipse|programming/emacs|programming/geany|programming/gedit|programming/gvim|programming/intellij|programming/clion|programming/neovim|programming/kate|programming/kdevelop|programming/pycharm|programming/vim|programming/vscode|programming/vsc-clangd|programming/vsc-cpp-compile-run|programming/vsc-cpptools
+AvailableSoftware=internet/chromium|internet/firefox|langs/g++|langs/gcc|langs/javac|langs/kotlinc|langs/pypy3|langs/python3|tools/konsole|programming/codeblocks|programming/eclipse|programming/emacs|programming/geany|programming/gedit|programming/gvim|programming/intellij|programming/clion|programming/neovim|programming/kate|programming/kdevelop|programming/pycharm|programming/vim|programming/vscode|programming/vsc-cpptools
 Bookmarks={Contest^https://icpc-latam-br-fp-2026.moj.naquadah.com.br/}|{C++_Reference^https://en.cppreference.com}|{Python_docs^https://docs.python.org/3/}|{Kotlin_docs^https://kotlinlang.org/docs/home.html}|{Java_docs^https://docs.oracle.com/javase/8/docs/api/}|
 
 [Event-Times]
