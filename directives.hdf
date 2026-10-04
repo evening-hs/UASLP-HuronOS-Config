@@ -7,7 +7,7 @@ EventConfig=false
 ContestConfig=true
 
 [Always]
-AllowedWebsites=omegaup.com|maxcdn.bootstrapcdn.com|samhebert.net|cdnjs.cloudflare.com|challenges.cloudflare.com|codeforces.com|assets.codeforces.com|atcoder.jp|img.atcoder.jp|fonts.googleapis.com|www.googletagmanager.com|www.clarity.ms|www.google-analytics.com|secure-gravatar.com|didactic.uaslp.mx|login.microsoftonline.com|aadcdn.msftauth.net|
+AllowedWebsites=omegaup.com|maxcdn.bootstrapcdn.com|samhebert.net|cdnjs.cloudflare.com|challenges.cloudflare.com|codeforces.com|assets.codeforces.com|atcoder.jp|img.atcoder.jp|cdn.jsdelivr.net|static.addtoany.com|fonts.googleapis.com|fonts.gstatic.com|www.googletagmanager.com|www.clarity.ms|www.google-analytics.com|secure.gravatar.com|didactic.uaslp.mx|academica.uaslp.mx|login.microsoftonline.com|aadcdn.msftauth.net|
 AllowUsbStorage=true
 AvailableSoftware=debuggers/gdb|debuggers/valgrind|internet/chromium|langs/g++|langs/gcc|langs/javac|langs/kotlinc|langs/pypy3|langs/python3|tools/konsole|programming/codeblocks|programming/eclipse|programming/emacs|programming/geany|programming/gedit|programming/gvim|programming/intellij|programming/clion|programming/neovim|programming/kate|programming/kdevelop|programming/pycharm|programming/vim|programming/vscode|programming/vsc-cpptools
 Bookmarks={Contest^https://icpc-latam-br-fp-2026.moj.naquadah.com.br/}|{C++_Reference^https://en.cppreference.com}|{Python_docs^https://docs.python.org/3/}|{Kotlin_docs^https://kotlinlang.org/docs/home.html}|{Java_docs^https://docs.oracle.com/javase/8/docs/api/}|
